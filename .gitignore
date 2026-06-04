@@ -1,0 +1,12 @@
+# Auto-generated test results (local only) — .md dan .html
+results/
+
+# Pytest cache
+.pytest_cache/
+__pycache__/
+
+# HTML report (optional, generated on demand)
+report.html
+
+# Virtual environment
+venv/

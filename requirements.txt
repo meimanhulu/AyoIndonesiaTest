@@ -1,0 +1,9 @@
+# Wajib
+pytest>=8.0.0
+
+# Opsional: terminal output yang lebih cantik (progress bar, warna)
+pytest-sugar>=1.0.0
+
+# Opsional: generate laporan HTML untuk sharing ke stakeholder non-teknis
+# Jalankan dengan: python -m pytest --html=report.html --self-contained-html
+# pytest-html>=4.1.1
